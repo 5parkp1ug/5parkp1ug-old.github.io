@@ -1,8 +1,8 @@
 ---
 template: page
 title: About me
-slug: about
-draft: false
+slug: test
+draft: true
 ---
 My name is Abhishek Shandilya
 
