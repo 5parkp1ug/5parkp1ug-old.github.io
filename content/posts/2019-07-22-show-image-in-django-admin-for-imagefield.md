@@ -1,7 +1,7 @@
 ---
 template: post
 title: Show image in django admin for Imagefield
-slug: show-image-in-django-admin-for-Imagefield
+slug: posts/show-image-in-django-admin-for-Imagefield
 draft: false
 date: 2019-07-22T12:58:37.528Z
 description: feoihfweofhhff2h2phf2hf2f
