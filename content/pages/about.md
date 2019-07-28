@@ -1,6 +1,6 @@
 ---
 title: about
 slug: pages/about
-draft: true
+draft: false
 ---
 this is test
