@@ -1,7 +1,7 @@
 ---
 template: page
 title: Who Am I?
-slug: whoami
+slug: pages/whoami
 draft: false
 ---
 This is who am i
