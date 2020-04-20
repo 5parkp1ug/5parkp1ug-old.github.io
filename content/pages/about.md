@@ -1,6 +1,6 @@
 ---
-title: about
+title: About Me
 slug: about
 draft: false
 ---
-this is test about a new page
+This is about me page. You will get to know about me!!!! :)
