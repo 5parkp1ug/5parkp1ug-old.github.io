@@ -3,4 +3,4 @@ title: about
 slug: /pages/about
 draft: false
 ---
-this is test
+this is test about a new page
